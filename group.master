@@ -61,3 +61,4 @@ systemd-journal:x:121:
 geoclue:x:122:
 app-manager:x:123:
 kalite:x:124:
+g-s-helper:x:125:
