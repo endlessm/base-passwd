@@ -60,5 +60,7 @@ metrics:*:120:
 systemd-journal:*:121:
 geoclue:*:122:
 app-manager:*:123:
-kalite:*:124:
-g-s-helper:*:125:
+input:*:124:
+systemd-bus-proxy:*:125:
+kalite:*:126:
+g-s-helper:*:127:
