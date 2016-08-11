@@ -62,5 +62,7 @@ geoclue:*:122:
 app-manager:*:123:
 input:*:124:
 systemd-bus-proxy:*:125:
-kalite:*:126:
-g-s-helper:*:127:
+systemd-coredump:*:126:
+vboxsf:*:127:
+kalite:*:128:
+g-s-helper:*:129:

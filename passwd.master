@@ -36,5 +36,6 @@ app-manager:*:116:123:Endless App Manager:/var/endless:/usr/sbin/nologin
 hplip:*:117:7:HPLIP system user,,,:/var/run/hplip:/usr/sbin/nologin
 systemd-bus-proxy:*:118:125:systemd Bus Proxy,,,:/run/systemd:/bin/false
 sshd:*:119:65534::/var/run/sshd:/usr/sbin/nologin
-kalite:*:120:126:KA Lite Helper system user,,,:/var/lib/kalite/:/bin/bash
-g-s-helper:*:121:127:GNOME Software helper system user,,,:/var/lib/g-s-helper/:/usr/sbin/nologin
+systemd-coredump:*:120:126:systemd core dump processing,,,:/run/systemd:/bin/false
+kalite:*:121:128:KA Lite Helper system user,,,:/var/lib/kalite/:/bin/bash
+g-s-helper:*:122:129:GNOME Software helper system user,,,:/var/lib/g-s-helper/:/usr/sbin/nologin
