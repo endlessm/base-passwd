@@ -66,3 +66,4 @@ systemd-coredump:*:126:
 vboxsf:*:127:
 kalite:*:128:
 g-s-helper:*:129:
+ndn-user:*:130:
