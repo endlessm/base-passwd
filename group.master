@@ -67,3 +67,5 @@ vboxsf:*:127:
 kalite:*:128:
 g-s-helper:*:129:
 ndn-user:*:130:
+systemd-network:*:131:
+systemd-resolve:*:132:
