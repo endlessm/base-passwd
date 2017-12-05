@@ -69,3 +69,4 @@ g-s-helper:*:129:
 ndn-user:*:130:
 systemd-network:*:131:
 systemd-resolve:*:132:
+companion-app-helper:*:133:
