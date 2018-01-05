@@ -42,4 +42,4 @@ g-s-helper:*:122:129:GNOME Software helper system user,,,:/var/lib/g-s-helper/:/
 ndn-user:*:123:130::/var/lib/ndn:/bin/false
 systemd-network:*:124:131:systemd Network Management,,,:/run/systemd/netif:/bin/false
 systemd-resolve:*:125:132:systemd Resolver,,,:/run/systemd/resolve:/bin/false
-companion-app-helper:*:126:133:Companion Application helper system user,,,:/var/lib/companion-app/:/bin/false
+companion-app-helper:*:126:133:Companion Application helper system user,,,:/var/lib/eos-companion-app/:/bin/false
