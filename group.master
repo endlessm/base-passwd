@@ -71,3 +71,4 @@ systemd-network:*:131:
 systemd-resolve:*:132:
 companion-app-helper:*:133:
 avahi-service-writers:*:134:
+mogwai-scheduled:*:135:
