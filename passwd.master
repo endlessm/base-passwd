@@ -42,3 +42,4 @@ g-s-helper:*:122:129:GNOME Software helper system user,,,:/var/lib/g-s-helper/:/
 ndn-user:*:123:130::/var/lib/ndn:/bin/false
 systemd-network:*:124:131:systemd Network Management,,,:/run/systemd/netif:/bin/false
 systemd-resolve:*:125:132:systemd Resolver,,,:/run/systemd/resolve:/bin/false
+eos-paygd:*:128:136:Endless Pay As You Go Daemon::/usr/sbin/nologin
