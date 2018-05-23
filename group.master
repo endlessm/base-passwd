@@ -57,7 +57,7 @@ Debian-gdm:*:117:
 elasticsearch:*:118:
 ntp:*:119:
 metrics:*:120:
-systemd-journal:*:121:
+systemd-journal:*:121:gnome-initial-setup
 geoclue:*:122:
 app-manager:*:123:
 input:*:124:
