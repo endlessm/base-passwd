@@ -44,7 +44,6 @@ systemd-network:*:124:131:systemd Network Management,,,:/run/systemd/netif:/bin/
 systemd-resolve:*:125:132:systemd Resolver,,,:/run/systemd/resolve:/bin/false
 companion-app-helper:*:126:133:Companion Application helper system user,,,:/var/lib/eos-companion-app/:/bin/false
 mogwai-scheduled:*:127:135:Mogwai (Download Scheduler) Scheduling Daemon::/usr/sbin/nologin
-eos-paygd:*:128:136:Endless Pay As You Go Daemon::/usr/sbin/nologin
 _apt:*:129:65534::/nonexistent:/bin/false
 nm-openvpn:*:130:137:NetworkManager OpenVPN,,,:/var/lib/openvpn/chroot:/bin/false
 _flatpak:*:131:138:Flatpak System Helper User::/usr/sbin/nologin
