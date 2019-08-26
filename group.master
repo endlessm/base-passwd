@@ -72,6 +72,5 @@ systemd-resolve:*:132:
 companion-app-helper:*:133:
 avahi-service-writers:*:134:
 mogwai-scheduled:*:135:
-eos-paygd:*:136:
 nm-openvpn:*:137:
 _flatpak:*:138:
