@@ -74,3 +74,4 @@ avahi-service-writers:*:134:
 mogwai-scheduled:*:135:
 nm-openvpn:*:137:
 _flatpak:*:138:
+kolibri:*:139:
