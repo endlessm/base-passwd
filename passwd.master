@@ -47,3 +47,4 @@ mogwai-scheduled:*:127:135:Mogwai (Download Scheduler) Scheduling Daemon::/usr/s
 _apt:*:129:65534::/nonexistent:/bin/false
 nm-openvpn:*:130:137:NetworkManager OpenVPN,,,:/var/lib/openvpn/chroot:/bin/false
 _flatpak:*:131:138:Flatpak System Helper User::/usr/sbin/nologin
+kolibri:*:132:139:Kolibri:/var/lib/kolibri:/usr/sbin/nologin
