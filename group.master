@@ -77,3 +77,4 @@ _flatpak:*:138:
 kolibri:*:139:
 render:*:140:
 systemd-timesync:*:141:
+kvm:*:142:
